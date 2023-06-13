@@ -20,7 +20,7 @@
     color: var(--orange);
 }
 .t-heading span:nth-of-type(1){
-   padding-left: 10rem;
+   padding-left: 8rem;
 }
 .t-blur1{
     left: 38rem;
