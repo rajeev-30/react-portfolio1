@@ -31,11 +31,14 @@
     margin-bottom: 6rem;
     
 }
-.s-button{
+.s-button{  
     width: 9rem;
     height: 2.5rem;
     /* position: relative;
     top: 6rem; */
+}
+.awesome2 a{
+    width: 9rem;
 }
 .cards{
     position: relative;
