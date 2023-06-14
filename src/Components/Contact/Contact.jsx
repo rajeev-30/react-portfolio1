@@ -23,7 +23,7 @@ const Contact = () => {
               (result) => {
                 console.log(result.text);
                 setDone(true);
-                // clearForm();
+                clearForm();
               },
               (error) => {
                 console.log(error.text);

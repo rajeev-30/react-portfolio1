@@ -20,7 +20,7 @@
 .c-right .user{
     width: 19rem;
     height: 2rem;
-    padding: 0.3px 10px 0.3px 10px;
+    padding: 0.3px 5px 0.3px 5px;
     outline: none;
     border: 2px solid var(--orange);
     border-radius: 8px;
