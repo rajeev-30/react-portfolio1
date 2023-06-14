@@ -10,7 +10,6 @@ import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
 import {themeContext} from './Context';
 import { useContext } from 'react'
-import C from './Components/C/C'
 
 
 function App() {
