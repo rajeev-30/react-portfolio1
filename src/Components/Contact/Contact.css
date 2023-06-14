@@ -14,17 +14,19 @@
 .c-right>form{
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    /* gap: 2rem; */
     align-items: center;
 }
 .c-right .user{
-    width: 20rem;
+    width: 19rem;
     height: 2rem;
-    padding: 0.3;
+    padding: 0.3px 10px 0.3px 10px;
     outline: none;
     border: 2px solid var(--orange);
     border-radius: 8px;
     font-size: 16px;
+    /* padding-left: 0.5rem;
+    padding-right: 0.5rem; */
 }
 textarea{
     height: 4rem!important;
@@ -33,6 +35,16 @@ textarea{
     top: 1rem;
     left: 14rem;
 }
+.c-right p {
+    /* text-align: start; */
+    font-size: 16px;
+    color: red;
+  }
+  .success{
+    color: var(--orange);
+    margin-top: 2rem;
+  }
+
 @media screen and (max-width: 480px){
     
     .contact-form{
