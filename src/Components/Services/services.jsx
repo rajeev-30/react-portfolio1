@@ -18,7 +18,7 @@ const services = () => {
         <span> My</span>
         <span>Skills</span>
             <span>
-            Are you  looking for a person that convert you idea into reality, i'm your man <br />
+            Are you  looking for a person that convert you idea into reality, well i'm your man <br />
             i've all the skills required for a website design, what are you waiting for <br />Let's build a brand together.
             </span>
 
@@ -51,7 +51,7 @@ const services = () => {
         >
           <Card
             emoji={Glasses}
-            heading={"Programming Laguages"}
+            heading={"Programming Languages"}
             detail={"Java, Python, C/C++"}
           />
         </motion.div>
