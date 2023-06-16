@@ -119,8 +119,11 @@
         left: 48%;
         top: 13%;
     }
-    .floating-div:nth-of-type(2){
-        top: 22rem!important; 
+    .floating-div1{
+        top: -2.5rem!important; 
+    }
+    .floating-div2{
+        top: 21rem!important; 
     }
     .i-name>:nth-child(3){
         text-align: justify;
