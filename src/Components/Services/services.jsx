@@ -52,7 +52,7 @@ const services = () => {
           <Card
             emoji={Glasses}
             heading={"Programming Languages"}
-            detail={"Java, Python, C/C++"}
+            detail={"Java, Python, C, C++"}
           />
         </motion.div>
 

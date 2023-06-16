@@ -102,7 +102,7 @@ const Contact = () => {
                         className="user"
                         type="text"
                         name="user_name"
-                        placeholder="Username"
+                        placeholder="name"
                         value={formValues.user_name}
                         onChange={handleChange}
                     />
