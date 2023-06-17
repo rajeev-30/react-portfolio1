@@ -2,7 +2,6 @@
   height: 10vh;
   display: flex;
   justify-content: space-between;
-  /* z-index: 10; */
 }
 .n-left {
   flex: 1;
@@ -29,7 +28,6 @@
   gap: 2rem;
   margin-right: 4rem;
   list-style: none;
-  /* margin-top: 3rem; */
 }
 .h-effect:hover {
   cursor: pointer;
@@ -67,8 +65,7 @@
     height:0;
     position: absolute; 
     right: 3.5rem;
-    top: 1.5rem;
-    /* z-index: 10; */
+    top: 1rem;
   }
   .cross-icon{
     display: block;
@@ -81,9 +78,9 @@
     display: none;
   }
   .mobile-menu{
-    display: block;
+    /* display: block; */
     height: 100vh;
-    width: 52%;
+    width: 55%;
     gap: 3rem;
     background-color: rgb(6, 6, 91);
     position: fixed;
