@@ -75,8 +75,7 @@
     width: 0;
     height:0;
     position: absolute; 
-    top: -4rem;
-    
+    top: -4rem; 
   }
   .n-right{
     display: none;
@@ -91,8 +90,6 @@
     right: 0;
     top: 0;
     z-index: 5;
-    transform: translateZ(100%);
-    transition: transform 3s ease-in-out;
   }
 
   .mobile-menu .n-list > ul{
