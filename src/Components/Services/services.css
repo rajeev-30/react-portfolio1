@@ -63,7 +63,7 @@
         flex-direction: column;
         gap: 5rem;
         height: 70rem;
-        padding: 6rem 0 2rem 0;
+        padding: 0rem 0 2rem 0;
     }
     .cards{
         display: flex;

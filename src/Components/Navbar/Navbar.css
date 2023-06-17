@@ -45,6 +45,9 @@
 	outline: none;
 	display: none;
 }
+.conactformobile{
+  display: none;
+}
 
 @media screen and (max-width: 780px){
   .n-wrapper{
@@ -76,6 +79,9 @@
   }
   .n-right{
     display: none;
+  }
+  .conactformobile{
+    display: block;
   }
   .mobile-menu{
     /* display: block; */

@@ -104,6 +104,7 @@
         flex-direction: column;
         height: 64rem;
         gap: 7rem;
+        margin-bottom: 7rem;
     }
     .i-right{
         margin-top: -25%;

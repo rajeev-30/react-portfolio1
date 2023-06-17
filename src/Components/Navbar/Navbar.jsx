@@ -78,6 +78,15 @@ const Navbar = () => {
                         >
                             <li className="h-effect">Testimonial</li>
                         </Link>
+                        <Link
+                            className="conactformobile"
+                            spy={true}
+                            to="Contact"
+                            smooth={true}
+                            activeClass="activeClass"
+                        >
+                            <li className="h-effect">Contact Me</li>
+                        </Link>
                     </ul>
                 </div>
                 <Link spy={true} to="Contact" smooth={true} activeClass="activeClass">
