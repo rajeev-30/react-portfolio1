@@ -21,11 +21,11 @@ const intro = () => {
     <div className="intro">
       <div className="i-left">
         <div className="i-name">
-          <span>Hy! I Am</span>
+          <span>Hi! I Am</span>
           <span>Rajeev Kushwaha</span>
           <span>
             Strong in design and problem-solving skills. I've been designing
-            websites from 2 years and have developed numerous websites that
+            websites from past 3 years and have developed numerous websites that
             reflect my commitment to excellence. Whether you're looking for 
             a stunning ecommerce website that generates profit or a
             responsive website or portfolio, I have the skills to bring your
