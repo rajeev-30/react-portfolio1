@@ -18,8 +18,8 @@ const services = () => {
         <span> My</span>
         <span>Skills</span>
             <span>
-            Are you  looking for a person that convert you idea into reality, well i'm your man <br />
-            i've all the skills required for a website design, what are you waiting for <br />Let's build a brand together.
+            Are you  looking for a person that can convert you idea into reality, well i'm your man <br />
+            i've got all the skills required for a website design, what are you waiting for <br />Let's build a brand together.
             </span>
 
         <a href={resume} download>
