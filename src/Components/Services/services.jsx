@@ -18,8 +18,7 @@ const services = () => {
         <span> My</span>
         <span>Skills</span>
             <span>
-            Ready to bring your ideas to life? You're in the right place. With my expertise in website design, <br />
-            I've got the skills to turn your vision into a digital reality. Let's team up and create something extraordinary together.
+            I am a seasoned web developer with expertise in the MERN stack, dedicated to crafting responsive and user-friendly websites. Proficient in in C++ and Java programming languages.
             </span>
 
         <a href={resume} download>

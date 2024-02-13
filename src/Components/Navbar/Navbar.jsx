@@ -57,9 +57,9 @@ const Navbar = () => {
                         >
                             <li className="h-effect">Experience</li>
                         </Link>
-                        <Link spy={true} to="Work" smooth={true} activeClass="activeClass">
+                        {/* <Link spy={true} to="Work" smooth={true} activeClass="activeClass">
                             <li className="h-effect">Work</li>
-                        </Link>
+                        </Link> */}
 
                         <Link
                             spy={true}
@@ -70,14 +70,14 @@ const Navbar = () => {
                             <li className="h-effect">Portfolio</li>
                         </Link>
 
-                        <Link
+                        {/* <Link
                             spy={true}
                             to="Testimonial"
                             smooth={true}
                             activeClass="activeClass"
                         >
                             <li className="h-effect">Testimonial</li>
-                        </Link>
+                        </Link> */}
                         <Link
                             className="conactformobile"
                             spy={true}

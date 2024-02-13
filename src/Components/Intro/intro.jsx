@@ -24,13 +24,7 @@ const intro = () => {
           <span>Hi! I Am</span>
           <span>Rajeev Kushwaha</span>
           <span>
-            Strong in design and problem-solving skills. I've been designing
-            websites from past 3 years and have developed numerous websites that
-            reflect my commitment to excellence. Whether you're looking for 
-            a stunning ecommerce website that generates profit or a
-            responsive website or portfolio, I have the skills to bring your
-            Vision to Life. Let's start the journey to transform your ideas into
-            Remarkable Digital Experiences.
+            Strong in design and problem-solving skills. I am a Full Stack Developer with a passion for tackling intricate challenges. I specialize in designing visually engaging and user-friendly web applications, leveraging the power of the MERN stack (MongoDB, Express.js, React.js, Node.js). Additionally, I possess proficiency in HTML, CSS, Tailwind CSS, and JavaScript.
           </span>
         </div>
 
