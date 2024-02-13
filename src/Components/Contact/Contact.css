@@ -4,7 +4,10 @@
     height: 80vh;
     margin-top: 1rem;
 }
+.txt{
+    width: 100%;
 
+}
 .c-right{
     display: flex;
     justify-content: center;
