@@ -1,15 +1,11 @@
 import React from 'react'
-import './Testinomial.css'
+import './GitRepo.css'
 import {Swiper, SwiperSlide} from 'swiper/react'
 import 'swiper/css'
-import profilePic1 from '../../img/profile1.jpg'
-import profilePic2 from '../../img/profile2.jpg'
-import profilePic3 from '../../img/profile4.jpg'
-import profilePic4 from '../../img/profile1.jpg'
 import { Pagination } from 'swiper'
 import 'swiper/css/pagination'
 
-const Testimonial = () => {
+const GitRepo = () => {
     const repos =[ 
         {
         title: "DSA in Java",
@@ -40,7 +36,7 @@ const Testimonial = () => {
 
   return (
 
-    <div className="t-wrapper" id='Testimonial' >
+    <div className="t-wrapper" id='GitRepo' >
         <div className="t-heading">
             <div className="repo">
                 <span>GitHub </span>
@@ -62,7 +58,7 @@ const Testimonial = () => {
                 return(
                     <SwiperSlide key={index}>
 
-                        <div className="testimonial">
+                        <div className="gitRepo">
                             {/* <img src={clients.img} alt="" /> */}
                             <span>{ repos.title}</span>
                             <span>{ repos.desc}</span>
@@ -80,4 +76,4 @@ const Testimonial = () => {
   )
 }
 
-export default Testimonial
+export default GitRepo
