@@ -10,6 +10,7 @@ import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
 import {themeContext} from './Context';
 import { useContext } from 'react'
+import GitRepo from './GitRepo/GitRepo'
 
 
 function App() {
@@ -29,7 +30,7 @@ function App() {
       <Experience/>
       {/* <Works/> */}
       <Portfolio/>
-      {/* <Testimonial/> */}
+      <GitRepo/>
       <Contact/>
       <Footer/>
     </div>

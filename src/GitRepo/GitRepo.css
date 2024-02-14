@@ -31,7 +31,7 @@
 .t-heading span:nth-of-type(2){
     color: var(--orange);
 }
-.testimonial > a:hover{ 
+.gitRepo > a:hover{ 
     color: var(--orange);
 
 }
@@ -46,7 +46,7 @@
     left: 0;
     top: 9rem;
 }
-.testimonial{
+.gitRepo{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -64,17 +64,17 @@
     height: 6rem;
     border-radius: 100%;
 } */
-.testimonial span{
+.gitRepo span{
     text-align: justify;
     color: var(--back);
 }
-.testimonial span:nth-child(2){
+.gitRepo span:nth-child(2){
     color: var(--gray);
     font-size: 14px;
     /* align-self: flex-start; */
     
 }
-.testimonial a{
+.gitRepo a{
     text-decoration: none;
     color: var(--gray);
     
@@ -99,7 +99,7 @@
         padding: 0;
         margin-bottom: 8rem;
     }
-    .testimonial>img{
+    .gitRepo>img{
         width: 70px;
         height: 70px;
     }
@@ -114,7 +114,7 @@
         left: 8rem;
         top: 30rem;
     }
-    .testimonial span{
+    .gitRepo span{
         font-size: 14px;
     }
     .repo {
