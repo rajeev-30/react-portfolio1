@@ -70,14 +70,14 @@ const Navbar = () => {
                             <li className="h-effect">Portfolio</li>
                         </Link>
 
-                        {/* <Link
+                        <Link
                             spy={true}
-                            to="Testimonial"
+                            to="GitRepo"
                             smooth={true}
                             activeClass="activeClass"
                         >
-                            <li className="h-effect">Testimonial</li>
-                        </Link> */}
+                            <li className="h-effect">GithubRepo</li>
+                        </Link>
                         <Link
                             className="conactformobile"
                             spy={true}
